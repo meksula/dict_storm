@@ -11,7 +11,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/dict_storm
     username: explorerdb
     password: explorer
-
-google:
-  api:
-    key: AIzaSyCiyZT2HXKcIAzIPodam8cXYLkb_cTiKQ4
+#
+#google:
+#  api:
+#    key: AIzaSyCiyZT2HXKcIAzIPodam8cXYLkb_cTiKQ4
